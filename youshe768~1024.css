@@ -1,0 +1,166 @@
+html{
+                font-size: 0.97656vw;
+            }
+            .tab_list{
+                margin-left: -5rem;
+            }
+            .underli{
+                margin-left: 6rem;
+            }
+            .li{
+                margin-left: .1rem;
+            }
+            .search{
+                margin-left: -27rem;
+                /* width: 2rem; */
+            }
+            .sea{
+                width: 5rem;
+                height: 1.5rem;
+            }
+            .img1{
+                width: 3rem;
+                height: 3rem;
+            }
+            /* .lunbotu>ul>li img{
+                width: 100rem;
+            } */
+            .circle,
+            .homelistbottom{
+                display: none;
+            }
+            #yd-homelisttop{
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .homelistbox{
+                display: flex;
+            } 
+            .homelistbox1,.homelistbox2{
+                width: 45rem;
+                margin-left: 1.5rem;
+            }
+            .homelistbox1 img,.homelistbox2 img{
+                width: 45rem;
+                height: 23rem;
+            }
+            .homelistbox2{
+                margin-top: auto;
+            }
+            .body{
+                margin-top: 6rem;
+            }
+            .topcot1,.topcot2{
+                display: none;
+            }
+            .topcot3{
+                margin-left: 0rem;
+            }
+            .topcot31{
+                font-size: 2rem;
+                margin-left: 4rem;
+            }
+            .topcot4{
+                margin-left: 86rem;
+            }
+            .body{
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .bodyl{
+                width: 100%;
+            }
+            .bodylbox5,.bodylbox6{
+                display: none;
+            }
+            .bodyrbox1,.bodyrbox4,.bodyrbox5,.bodyrbox6,.bodyrbox7,
+            .bodyrbox8,.bodyrbox9,.rbox1wechat{
+                display: none;
+            }
+            .bodyrbox2,.bodyrbox3{
+                display: block;
+            }
+            .bodyr{
+                display: flex;
+            }
+            .bodyrbox2{
+                margin-top: -19rem;
+                border: none;
+                width: 70rem;
+            }
+            .rbox2top1{
+                font-size: 3rem;
+                width: 28rem;
+            }
+            .rbox2top2{
+                font-size: 2rem;
+                width: 30rem;
+                margin-left: -15rem;
+            }
+            .rbox2hr hr{
+                width: 65rem;
+            }
+            .bodyrbox3{
+                margin-top: -19rem;
+                margin-right: 0;
+                margin-left: 2rem;
+            }
+            .rbox2cen1{
+                width: 65rem;
+            }
+            .rbox2cen11{
+                font-size: 3rem;
+            }
+            .rbox2cen12{
+                font-size: 2.4rem;
+            }
+            .rbox2fot{
+                width: 64rem;
+                height: 3rem;
+            }
+            .foot{
+                display: none;
+            }
+            .bottom{
+                margin-top: -600rem;
+                
+            }
+            .bottop{
+                width: 95rem;
+            }
+            .bottopcot2{
+                margin-left: -9rem;
+                margin-top: -9.5rem;
+            }
+            .bottopcot3{
+                margin-left: 60rem;
+            }
+            .botcen{
+                width: 95rem;
+                height: 30rem;
+            }
+            .botcen1cot2,.botcen1cot2a,.botcen1cot3,.botcen2cot4,
+            .botfotcot,.botfotcota{
+                display: none;
+            }
+            .botcen1cot1{
+                border: none;
+            }
+            .botcen1cot12{
+                width: 85rem;
+            }
+            .botmove,.botcolor{
+                width: 95rem;
+            }
+            .botfot{
+                width: 95rem;
+                margin-top:-3rem;
+                height: 3rem;
+            }
+            .botfotb{
+                margin-left: 100px;
+            }
+            .homelistbox1a,
+            .url1a{
+                display: none;
+            }

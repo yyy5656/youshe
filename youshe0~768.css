@@ -1,0 +1,424 @@
+
+            html{
+                font-size: 1.30548vw;
+            }
+            .circle,
+            .sea,.img1,
+            .tab_list{
+                display: none;
+            }
+            .logo{
+                margin-left: 1rem;
+            }
+            .yd-header{
+                display: block;
+                display: flex;
+                margin-left: 67rem;
+                margin-top: 3rem;
+                color: coral;
+                font-size: 14px;
+            }
+            .yd-header img{
+                width: 3rem;
+                margin-top: -.5rem;
+            }
+            .lunbotu{
+                width: 67.1rem;
+                border-radius: 3%;
+            }
+            .lunbotu>ul>li img{
+                width: 70rem;
+            }
+            /* #yd-homelisttop{
+                display: flex;
+                flex-wrap: wrap;
+            } */
+            /* .homelistbox{
+                display: flex;
+            }  */
+            .homelistbox1,.homelistbox2{
+                /* width: 26rem; */
+                margin-left: 1rem;
+                margin-top: -14rem;
+            }
+            .homelistbox1 img,.homelistbox2 img{
+                width: 32rem;
+                height: 17rem;
+            }
+            .homelistbox2{
+                margin-left: -11rem;
+            }
+            #topcot31a{
+                display: none;
+            }
+            .topcot4{
+                margin-left: 65rem;
+            }
+            .lcot21cen{
+                display: none;
+            }
+            .bodylbox1{
+                display: flex;
+                flex-direction: row-reverse;
+                width: 70rem;
+            }
+            
+            .lcot12{
+                left: 0;
+                margin-left: .5rem;
+                width: 45rem;
+            }
+            .lcot11{
+                margin-left: -3rem;
+                width: 27rem;
+            }
+            .lcot21{
+                margin-left: -2rem;
+            }
+            .lcot31,
+            .lcot41{
+                /* width: 15rem; */
+                margin-left: 5rem;
+            }
+            .lcot51{
+                margin-left: -4rem;
+            }
+            .lcot61{
+                margin-left: 10rem;
+            }
+            .lcot71{
+                margin-left: 10rem;
+            }
+            .lcot81{
+                margin-left: 7rem;
+            }
+            .lcot111,
+            .lcot121{
+                margin-left: 10rem;
+            }
+            .lcot151{
+                margin-left: 6rem;
+            }
+            .lcot181{
+                margin-left: 9rem;
+            }
+            .lcot191{
+                margin-left: 6rem;
+            }
+            .lcot201{
+                margin-left: 8rem;
+            }
+            .lbox2cot2{
+                display: flex;
+                flex-direction: column;
+            }
+            /* .lbox2sb1{
+                display: none;
+            } */
+            .lbox2sb1{
+                width: 45rem;
+                /* position: relative; */
+                font-size: 2rem;
+                margin-top: 2rem;
+            }
+            .lbox2sb2{
+                position: absolute;
+                margin-top: 5rem;
+                margin-left: -45rem;
+                width: 20rem;
+                font-size: 2rem;
+            }
+            .lbox2sb{
+                display: flex;
+                flex-direction: row-reverse;
+                width: 67rem;
+                height: 16rem;
+            }
+            .box2cot2{
+                margin-left: 47rem;
+            }
+            .bodylbox3{
+                display: flex;
+                flex-direction: column;
+                width: 67rem;
+                height: 60rem;
+                margin-left: 1rem;
+            }
+            .bodylbox3 img{
+                width: 65rem;
+                height: 40rem;
+            }
+            .lbox3cot2 h2{
+                font-size: 2.4rem;
+            }
+            .lbox3cot21{
+                margin-left: 35rem;
+                margin-top: -4.5rem;
+                width: 10rem;
+                height: 3rem;
+                font-size: 2.2rem;
+            }
+            .lbox3cot24{
+                width: 60rem;
+                height: 3rem;
+                margin-left: 3rem;
+                margin-top: 1rem;
+            }
+            .box7top2{
+                margin-left: 53rem;
+            }
+            .box7cot2{
+                margin-left: 5rem;
+            }
+            #yd-box7cot2{
+                display: none;
+            }
+            .bodylbox4{
+                width: 65rem;
+            }
+            #yd-bodylbox8{
+                display: block;
+            }
+            .bodylbox8{
+                display: none;
+            }
+            .bodyr{
+                display: flex;
+            }
+            .yd-bodyrbox3,
+            .yd-bodyrbox2{
+                display: none;
+            }
+            .bodyrbox2{
+                display: block;
+                margin-top: 82rem;
+                margin-left: 2rem; 
+                width: 60rem;
+                height: 26rem;
+                border: none;
+                background-color: white;
+            }
+            .rbox4top,
+            .rbox3top,
+            .rbox2top1{
+                width: 30rem;
+                font-size: 3rem;
+            }
+            .rbox2top2{
+                font-size: 1.7rem;
+                width: 20rem;
+                margin-left: -16rem;
+            }
+            .rbox2cen11{
+                font-size: 1.5rem;
+                width: 2.3rem;
+                text-align: center;
+                line-height: 3rem;
+                font-weight: 500;
+                border: solid coral;
+                border-radius: 5%;
+                border-width: 0.2rem;
+                color: coral;
+            }
+            
+            .rbox2cen12{
+                font-size: 2.3rem;
+            }
+            .rbox2hr{
+                display: none;
+            }
+            .rbox5fot,
+            .rbox3fot,
+            .rbox2fot{
+                width: 63rem;
+                height: 3.5rem;
+                font-size: 2.2rem;
+            }
+            .bodyrbox3{
+                display: block;
+                width: 60rem;
+                height: 57rem;
+                margin-top: 110rem;
+                margin-left: -60rem;
+                border: none;
+                background-color: white;/*要删*/
+            }
+            .rbox3cot1a1,
+            .rbox3cot1{
+                width: 40rem;
+                font-size: 2.4rem;
+            }
+            .rbox3cot1b2,
+            .rbox3cot1a2{
+                width: 10rem;
+                font-size: 2.4rem;
+                margin-left: 20rem;
+            }
+            .rbox3cot2{
+                font-size: 2rem;
+            }
+            .rbox3cot3 img{
+                width: 6rem;
+                height: 6rem;
+            }
+            .rbox3cot31{
+                font-size: 2rem;
+                margin-top: 2rem;
+            }
+            .rbox4hr hr,
+            .rbox4hr2,
+            .rbox3hr2 hr,
+            .rbox3hr hr{
+                width: 60rem;
+                margin-left: 1rem;
+            }
+
+            .bodyrbox4{
+                display: block;
+                margin-top: 180rem;
+                margin-left: -60rem;
+                border: none;
+                height: 100rem;
+            }
+            #rbox4cen1img1{
+                width: 63rem;
+                height: 40rem;
+            }
+            .rbox4cen1{
+                width: 63rem;
+                height: 28rem;
+            }
+            .rbox4cota{
+                display: none;
+            }
+            .rbox4cotb{
+                margin-top: -16.3rem;
+            }
+            .rbox4cot1{
+                margin-top: 38rem;
+            }
+            .rbox4cot11{
+                width: 3rem;
+                height: 3rem;
+            }
+            .rbox4cot11 img{
+                width: 2.7rem;
+                height: 2.7rem;
+            }
+            .rbox4cot12{
+                width: 12rem;
+                height: 2.7rem;
+                font-size: 1.8rem;
+            }
+            .rbox4cot2{
+                margin-left: 50rem;
+                margin-top: -2rem;
+                width: 17rem;
+                font-size: 1.6rem;
+            }
+            .rbox4cot3{
+                font-size: 1.7rem;
+            }
+            .rbox4cot41,
+            .rbox4cot42{
+                width: 10rem;
+                height: 3rem;
+                font-size: 1.6rem;
+                line-height: 3rem;
+            }
+            .rbox4cen2{
+                width: 63rem;
+            }
+            .rbox4c2cot1{
+                width: 20rem;
+                height: 14rem;
+            }
+            .rbox4c2cot1 img{
+                width: 18rem;
+                height: 13rem;
+            }
+            .rbox4c2cot2{
+                margin-left: 1rem;
+            }
+            .rbox4cotb1{
+                margin-top: -12.8rem;
+            }
+            .rbox4c2cot11 img{
+                margin-top: 4rem;
+                width: 2rem;
+                height: 2rem;
+            }
+            .rbox4c2cot12{
+                margin-top: auto;
+                font-size: 1.5rem;
+            }
+            .rbox4c2cot21{
+                font-size: 2rem;
+            }
+            .rbox4c2cot22{
+                width: 10rem;
+                height: 2.5rem;
+                font-size: 1.8rem;
+            }
+            .rbox4c2cot23{
+                margin-top: 2rem;
+                font-size: 1.7rem;
+            }
+            .rbox4c2cot24{
+                margin-left: 11rem;
+                margin-top: -2.4rem;
+            }
+
+            .bottop{
+                display: none;
+            }
+            .bottom{
+                margin-top: -350rem;
+            }
+            .botcen1cot12{
+                width: 65rem;
+            }
+            .botcen{
+                width: 70rem;
+            }
+            
+
+            #yd-botfotcot3{
+                display: none;
+            }
+            .botcolor
+            {
+                width: 70rem;
+            }
+            .botfot{
+                width: 60rem;
+            }
+            .botfotb{
+                width: 45rem;
+                margin-left: 25rem;
+            }
+            .bb,
+            .botcen2{
+                width: 60rem;
+                display: flex;
+                justify-content: space-between;
+                flex-direction: row;
+                flex-wrap: wrap;
+                margin-left: 2rem;
+            }
+            .botcen2cot1{
+                width: 14rem;
+                margin-top: 1rem;
+                margin-left: 4rem;
+            }
+            .bb{
+                margin-top: -17rem;
+            }
+            #bb1{
+                margin-top: 1rem;
+                margin-left: 2.7rem;
+            }
+            .homelistbox1a,
+            .url1a{
+                display: none;
+            }
